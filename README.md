@@ -7,7 +7,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/ryichk?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ryichk_dev?style=social)
 
-Im a Software Engineer in Tokyo, Japan.
+I'm a Software Engineer in Tokyo, Japan.
 
 I like JavaScript very much.
 
