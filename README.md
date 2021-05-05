@@ -55,7 +55,7 @@ I'm interested in Go, Rust, React, Microservices, gRPC and WebAssembly.
 </a>
 
 <a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ryichk&hide=html,css&theme=cobalt' />
+  <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ryichk&hide=powershell,vue,roff,html,css,scss&theme=cobalt' />
 </a>
 
 <!--
