@@ -1,4 +1,4 @@
-### Hi there 👋, I'm ryichk!
+### Hi devs 👋, I'm ryichk.
 
 --------
 
