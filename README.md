@@ -9,9 +9,9 @@
 
 I'm a Software Engineer in Tokyo, Japan.
 
-I like JavaScript very much.
+I like JavaScript (TypeScript) very much.
 
-I'm interested in Go, Rust, React, Microservices, gRPC and WebAssembly.
+I'm interested in Go, Rust, React, GraphQL, NoSQL, gRPC, WebAssembly, Microservices and Blockchain technology.
 
 --------
 
@@ -21,7 +21,6 @@ I'm interested in Go, Rust, React, Microservices, gRPC and WebAssembly.
 <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt='git' width='50' height='50' />
 <img src='https://cdn.worldvectorlogo.com/logos/github-icon-1.svg' alt='github' width='50' height='50' hspace='10' />
 <img src='https://cdn.worldvectorlogo.com/logos/circleci.svg' alt='circleci' width='50' height='50' />
-<img src='https://cdn.worldvectorlogo.com/logos/jenkins-1.svg' alt='jenkins' width='50' height='50' hspace='10' />
 <img src='https://cdn.worldvectorlogo.com/logos/nginx-1.svg' alt='nginx' width='50' height='50' />
 <img src='https://cdn.worldvectorlogo.com/logos/mysql-5.svg' alt='mysql' width='50' height='50' hspace='10' />
 <img src='https://cdn.worldvectorlogo.com/logos/mongodb.svg' alt='mongodb' width='50' height='50' />
@@ -31,20 +30,19 @@ I'm interested in Go, Rust, React, Microservices, gRPC and WebAssembly.
 
 <img src='https://cdn.worldvectorlogo.com/logos/ruby.svg' alt='ruby' width='50' height='50' /><img src='https://cdn.worldvectorlogo.com/logos/rails-1.svg' alt='rails' width='50' height='50' hspace='10' />
 <img src='https://cdn.worldvectorlogo.com/logos/python-5.svg' alt='python' width='50' height='50' />
-<img src='https://cdn.worldvectorlogo.com/logos/golang-gopher.svg' alt='golang' width='50' height='50' />
-
-<img src='https://cdn.worldvectorlogo.com/logos/html5.svg' alt='html5' width='50' height='50' /><img src='https://cdn.worldvectorlogo.com/logos/css3.svg' alt='css3' width='55' height='55' />
-<img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt='javascript' width='50' height='50' />
+<img src='https://cdn.worldvectorlogo.com/logos/golang-gopher.svg' alt='golang' width='50' height='50' hspace='5' />
+<img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt='javascript' width='50' height='50' hspace='5' />
 <img src='https://cdn.worldvectorlogo.com/logos/typescript.svg' alt='typescript' width='50' height='50' hspace='10' />
-<img src='https://cdn.worldvectorlogo.com/logos/nodejs-1.svg' alt='nodejs' width='50' height='50' />
-<img src='https://cdn.worldvectorlogo.com/logos/npm.svg' alt='npm' width='50' height='50' hspace='10' />
-<img src='https://cdn.worldvectorlogo.com/logos/yarn.svg' alt='yarn' width='50' height='50' />
+<img src='https://cdn.worldvectorlogo.com/logos/html5.svg' alt='html5' width='50' height='50' />
+<img src='https://cdn.worldvectorlogo.com/logos/css3.svg' alt='css3' width='55' height='55' />
+
+<img src='https://cdn.worldvectorlogo.com/logos/nodejs-1.svg' alt='nodejs' width='50' height='50' hspace='15' /><img src='https://cdn.worldvectorlogo.com/logos/yarn.svg' alt='yarn' width='50' height='50' />
 <img src='https://cdn.worldvectorlogo.com/logos/babel-10.svg' alt='babel' width='50' height='50' hspace='10' />
 <img src='https://cdn.worldvectorlogo.com/logos/webpack.svg' alt='webpack' width='50' height='50' />
-<img src='https://cdn.worldvectorlogo.com/logos/vue-js-1.svg' alt='vuejs' width='50' height='50' />
-<img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' alt='react' width='50' height='50' />
+<img src='https://cdn.worldvectorlogo.com/logos/vue-js-1.svg' alt='vuejs' width='50' height='50' hspace='5' />
+<img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' alt='react' width='50' height='50' hspace='5' />
 <img src='https://cdn.worldvectorlogo.com/logos/next-js.svg' alt='nextjs' width='50' height='50' hspace='5' />
-<img src='https://cdn.worldvectorlogo.com/logos/gatsby.svg' alt='gatsby' width='50' height='50' />
+<img src='https://cdn.worldvectorlogo.com/logos/gatsby.svg' alt='gatsby' width='50' height='50' hspace='5' />
 
 --------
 
