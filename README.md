@@ -22,7 +22,7 @@ I'm interested in Go, Rust, React, GraphQL, NoSQL, gRPC, WebAssembly, Microservi
 <img src='https://cdn.worldvectorlogo.com/logos/github-icon-1.svg' alt='github' width='50' height='50' hspace='10' />
 <img src='https://cdn.worldvectorlogo.com/logos/circleci.svg' alt='circleci' width='50' height='50' />
 <img src='https://cdn.worldvectorlogo.com/logos/nginx-1.svg' alt='nginx' width='50' height='50' />
-<img src='https://cdn.worldvectorlogo.com/logos/mysql-5.svg' alt='mysql' width='50' height='50' hspace='10' />
+<img src='https://cdn.worldvectorlogo.com/logos/mysql-6.svg' alt='mysql' width='50' height='50' hspace='10' />
 <img src='https://cdn.worldvectorlogo.com/logos/mongodb.svg' alt='mongodb' width='50' height='50' />
 <img src='https://cdn.worldvectorlogo.com/logos/graphql.svg' alt='graphql' width='50' height='50' hspace='10' />
 <img src='https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg' alt='apollo' width='50' height='50' />
