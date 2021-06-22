@@ -1,9 +1,13 @@
 ### Hi devs 👋, I'm ryichk.
 
---------
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ryichk.ryichk)
 ![GitHub User's stars](https://img.shields.io/github/stars/ryichk?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/ryichk_dev?style=social)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ryichk_dev)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ryichk)
+
+Visitors have been counting since June 23, 2021
+
+--------
 
 I'm a Software Engineer in Tokyo, Japan.
 
@@ -37,6 +41,8 @@ I'm interested in Go, Rust, React, GraphQL, NoSQL, gRPC, WebAssembly, Microservi
 <img src='https://cdn.worldvectorlogo.com/logos/nodejs-1.svg' alt='nodejs' width='50' height='50' hspace='15' /><img src='https://cdn.worldvectorlogo.com/logos/yarn.svg' alt='yarn' width='50' height='50' />
 <img src='https://cdn.worldvectorlogo.com/logos/babel-10.svg' alt='babel' width='50' height='50' hspace='10' />
 <img src='https://cdn.worldvectorlogo.com/logos/webpack.svg' alt='webpack' width='50' height='50' />
+<img src='https://cdn.worldvectorlogo.com/logos/eslint-1.svg' alt='eslint' width='50' height='50' hspace='5' />
+<img src='https://cdn.worldvectorlogo.com/logos/prettier-2.svg' alt='prettier' width='50' height='50' hspace='5' />
 <img src='https://cdn.worldvectorlogo.com/logos/vue-js-1.svg' alt='vuejs' width='50' height='50' hspace='5' />
 <img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' alt='react' width='50' height='50' hspace='5' />
 <img src='https://cdn.worldvectorlogo.com/logos/next-js.svg' alt='nextjs' width='50' height='50' hspace='5' />
