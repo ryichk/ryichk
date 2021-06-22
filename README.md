@@ -4,7 +4,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ryichk?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/ryichk?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/ryichk?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ryichk_dev?style=social)
 
 I'm a Software Engineer in Tokyo, Japan.
