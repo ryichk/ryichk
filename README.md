@@ -19,8 +19,8 @@ I'm interested in Go, Rust, React, GraphQL, NoSQL, gRPC, WebAssembly, Microservi
 
 🧰 Toolbox
 
-<img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt='git' height='45' /><img src='https://cdn.worldvectorlogo.com/logos/github-icon-1.svg' alt='github' height='50' hspace='10' />
-<img src='https://cdn.worldvectorlogo.com/logos/circleci.svg' alt='circleci' height='50' hspace='5' />
+<img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt='git' height='45' hspace='5' /><img src='https://cdn.worldvectorlogo.com/logos/github-icon-1.svg' alt='github' height='50' hspace='5' />
+<img src='https://cdn.worldvectorlogo.com/logos/circleci.svg' alt='circleci' height='50' />
 
 <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt='javascript' height='45' hspace='5' /><img src='https://cdn.worldvectorlogo.com/logos/typescript.svg' alt='typescript' height='45' hspace='5' />
 <img src='https://cdn.worldvectorlogo.com/logos/ruby.svg' alt='ruby' height='45' hspace='5' />
