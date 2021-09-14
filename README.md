@@ -54,12 +54,17 @@ I'm interested in Go, Rust, React, GraphQL, NoSQL, gRPC, WebAssembly, Microservi
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img align='left' src='https://github-readme-stats.vercel.app/api?username=ryichk&theme=tokyonight' />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryichk&theme=nord_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryichk&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryichk&theme=nord_dark)
 
 <a href='https://github.com/anuraghazra/github-readme-stats'>
   <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ryichk&hide=powershell,vue,roff,html,css,scss&theme=tokyonight' />
+</a>
+
+<a href='https://github.com/anuraghazra/github-readme-stats'>
+  <img align='left' src='https://github-readme-stats.vercel.app/api?username=ryichk&theme=tokyonight' />
 </a>
 
 <!--
