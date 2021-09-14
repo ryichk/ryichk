@@ -56,7 +56,6 @@ I'm interested in Go, Rust, React, GraphQL, NoSQL, gRPC, WebAssembly, Microservi
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryichk&theme=nord_dark)
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryichk&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryichk&theme=nord_dark)
 
