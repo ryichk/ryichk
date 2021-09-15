@@ -60,10 +60,6 @@ I'm interested in Go, Rust, React, GraphQL, NoSQL, gRPC, WebAssembly, Microservi
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryichk&theme=nord_dark)
 
 <a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ryichk&hide=powershell,vue,roff,html,css,scss&theme=tokyonight' />
-</a>
-
-<a href='https://github.com/anuraghazra/github-readme-stats'>
   <img align='left' src='https://github-readme-stats.vercel.app/api?username=ryichk&theme=tokyonight' />
 </a>
 
