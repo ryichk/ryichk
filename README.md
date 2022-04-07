@@ -9,11 +9,9 @@ Visitors have been counting since June 23, 2021
 
 --------
 
-I'm a Software Engineer in Tokyo, Japan.
+Programmer in Tokyo.
 
-I like JavaScript (TypeScript) very much.
-
-I'm interested in Go, Rust, React, GraphQL, NoSQL, gRPC, WebAssembly, Microservices and Blockchain technology.
+I like JavaScript (TypeScript).
 
 --------
 
