@@ -9,7 +9,7 @@ Visitors have been counting since June 23, 2021
 
 --------
 
-Programmer in Tokyo.
+Software Engineer in Tokyo.
 
 I like JavaScript (TypeScript).
 
