@@ -11,7 +11,7 @@ Visitors have been counting since June 23, 2021
 
 Software Engineer in Tokyo.
 
-I like JavaScript (TypeScript).
+I like Ruby, Go, JavaScript (TypeScript).
 
 --------
 
