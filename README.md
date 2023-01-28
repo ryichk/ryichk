@@ -1,9 +1,6 @@
 ### Hi devs 👋, I'm ryichk.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ryichk.ryichk)
-![GitHub User's stars](https://img.shields.io/github/stars/ryichk?style=social)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ryichk_dev)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ryichk)
 
 Visitors have been counting since June 23, 2021
 
