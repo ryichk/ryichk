@@ -1,4 +1,4 @@
-### Hi devs 👋, I'm ryichk.
+### Hi 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ryichk.ryichk)
 
@@ -7,8 +7,6 @@ Visitors have been counting since June 23, 2021
 --------
 
 Software Engineer in Tokyo.
-
-I like Ruby, Go, JavaScript (TypeScript).
 
 --------
 
